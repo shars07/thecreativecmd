@@ -1,2 +1,2 @@
 # thecreativecmd
-Encourage children to combine artistic and technological skills
+Encouraging children to combine artistic and technological skills
